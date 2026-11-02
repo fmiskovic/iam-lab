@@ -7,6 +7,7 @@ Every lab runs locally with Docker. Keycloak configuration is provisioned with T
 | Lab | Post | Keycloak |
 |---|---|---|
 | [keycloak-token-exchange](keycloak-token-exchange/) | [Keycloak Token Exchange, Hands-On](https://iamfilip.dev/posts/keycloak-token-exchange/) | 26.8.1 |
+| [zero-trust-keycloak](zero-trust-keycloak/) | [Keycloak Is Not Your Zero Trust Architecture](https://iamfilip.dev/posts/zero-trust-keycloak/) | 26.8.1 |
 
 ```bash
 git clone https://github.com/fmiskovic/iam-lab.git
